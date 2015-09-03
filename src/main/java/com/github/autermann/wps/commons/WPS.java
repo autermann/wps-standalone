@@ -1,5 +1,5 @@
 /*
- * Copyright (C) 2013 Christian Autermann
+ * Copyright (C) 2013-2015 Christian Autermann
  *
  * This program is free software; you can redistribute it and/or
  * modify it under the terms of the GNU General Public License
